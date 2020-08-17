@@ -1,0 +1,2 @@
+# from base image ubuntu
+FROM node:8.11-slim
